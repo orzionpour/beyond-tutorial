@@ -130,4 +130,7 @@ dmypy.json
 
 # Vagrant
 .vagrant
-.nohup.out
+
+# Additionals
+nohup.out
+db.sqlite3
